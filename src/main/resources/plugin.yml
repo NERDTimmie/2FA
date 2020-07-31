@@ -1,0 +1,5 @@
+name: 2fa
+version: ${project.version}
+main: nl.TimKolijn.fa
+api-version: 1.13
+authors: [TimKolijn]
